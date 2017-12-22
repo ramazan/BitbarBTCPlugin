@@ -50,6 +50,22 @@ Most plugins will come with a default, but you can change it to anything you lik
   * 1m - one minute
   * 2h - two hours
   * 1d - a day
+## Errors
 
+### 'jq command not found' error
 
+If you get this error "jq command not found" this means you don't have jq package. You have to install it.
+> jq is a lightweight and flexible JSON processor. 
 
+```brew install jq``` 
+
+I assume you have Homebrew if you don't look below. After this command Homebrew will install required package.
+
+### Homebrew install
+Just go this page and get install command. :)
+
+http://brew.sh/
+
+Or you can copy and paste it.
+
+``` /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" ```
