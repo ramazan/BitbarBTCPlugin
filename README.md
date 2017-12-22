@@ -10,8 +10,13 @@ Shows last BTC price (in TL) on Paribu.com & Bitstamp.net exchange.
 
 Just drop the plugin into your BitBar plugins folder (if you have the repo, why not use the Enabled folder?)
 
-Make sure it's executable (in Terminal, do chmod +x btc.25.sh)
+Make sure it's executable (in Terminal, do chmod +x btc.25s.sh)
 
 Then choose Refresh all from the BitBar menus
+
+
+####  This plugin run every 25 second . 
+#### If you wanna change run time you have to rename the file.
+
 
 
