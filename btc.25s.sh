@@ -5,7 +5,7 @@
 # <bitbar.title>Paribu.com last price</bitbar.title>
 # <bitbar.version>v1.0</bitbar.version>
 # <bitbar.author>Ramazan Demir</bitbar.author>
-# <bitbar.author.github>rdemirr</bitbar.author.github>
+# <bitbar.author.github>ramazan</bitbar.author.github>
 # <bitbar.desc>Shows last BTC price (in TL) on Paribu.com & Bitstamp.net exchange.</bitbar.desc>
 # <bitbar.image>http://i.imgur.com/aQCqOW6.png</bitbar.image>
 #
